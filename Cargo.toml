@@ -1,0 +1,7 @@
+[package]
+name = "bears"
+version = "0.1.0"
+authors = ["aaron"]
+
+[dependencies]
+glium = "*"
